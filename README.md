@@ -1,10 +1,12 @@
 
 ![Dashboard Screenshot](Dashboard.png)
 
-# HR-Data-Analytics-using-PowerBI
-Interactive HR Analytics Dashboard to visualize and analyze employee attrition trends and insights.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nameeth-Jalem.HR-Data-Analytics-using-PowerBI&left_color=blue&right_color=green)
+
+
+# HR-Data-Analytics-using-PowerBI
+Interactive HR Analytics Dashboard to visualize and analyze employee attrition trends and insights.
 
 Situation  
 Employee attrition remains a major challenge for organizations. Understanding the reasons why employees leave is critical to improving workforce stability, reducing rehiring costs, and building a strong employee engagement strategy. This project was undertaken to provide HR leadership with data-driven insights into attrition across different dimensions like age, gender, job role, salary, education, and experience.
